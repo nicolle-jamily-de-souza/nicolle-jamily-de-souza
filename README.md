@@ -6,7 +6,7 @@ Meu nome é nicolle jamily de souza
 - Estou me desenvolvendo na linguagem ingles
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo :
 
 00001126486152sp@al.educacao.sp.gov.br
 14-996941102
